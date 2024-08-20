@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meal-go/static/css/main.707d75f7.css",
+    "main.js": "/meal-go/static/js/main.38c57f1e.js",
+    "index.html": "/meal-go/index.html",
+    "main.707d75f7.css.map": "/meal-go/static/css/main.707d75f7.css.map",
+    "main.38c57f1e.js.map": "/meal-go/static/js/main.38c57f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707d75f7.css",
+    "static/js/main.38c57f1e.js"
+  ]
+}
