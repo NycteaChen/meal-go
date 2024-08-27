@@ -25,11 +25,21 @@ git clone https://github.com/NycteaChen/meal-go.git
 ### Install package
 
 ```bash
-npm install / pnpm install
+npm install
+```
+or
+
+```bash
+pnpm install
 ```
 
 ### Run repo
 
 ```bash
-npm run start / pnpm start
+npm run start
+```
+or
+
+```bash
+pnpm start
 ```
